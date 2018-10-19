@@ -10,3 +10,4 @@ the algorithms are:
 The code is not really commented but a run through of how everything works is countained in the powerpoint document.
 A performance analysis of the diffenrent algorithm is also done (notebook/xls/powerpoint files) to balance out quality of results and computaion time (Non-parametric texture synthesis is really slow ZZZzzz)
 
+![Screenshot](Texture.png)
