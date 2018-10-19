@@ -1,6 +1,6 @@
 # TextureSynthesis
 
-This repository contains numpy implementations of 4 texture synthesis algorithm. They both have a color and a grayscale implementation.
+This repository contains numpy implementations of 4 texture synthesis algorithms. They both have a color and a grayscale implementation.
 the algorithms are:<br />
 -Non-Parametric texture synthesis (1999) A.A Effros https://ieeexplore.ieee.org/document/790383 <br />
 -Pyramid-Based Texture Analysis/Synthesis (1995) D.J Heeger http://www.cns.nyu.edu/heegerlab/content/publications/Heeger-siggraph95.pdf<br />
